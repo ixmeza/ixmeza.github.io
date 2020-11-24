@@ -4,9 +4,10 @@
 
 ## Skills
 
+- Test Management
 - Manual Testing
 - Exploratory Testing
-- Test Leading
+- Accesibility Testing
 
 ---
 
