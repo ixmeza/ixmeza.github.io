@@ -1,4 +1,4 @@
-## About me
+## What can I do?
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### Companies I have worked with
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 
 ---
