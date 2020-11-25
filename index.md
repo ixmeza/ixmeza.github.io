@@ -5,6 +5,7 @@
 ## Skills
 
 - Test Management
+- Automation Testing
 - Manual Testing
 - Exploratory Testing
 - Accesibility Testing
@@ -23,7 +24,7 @@
 ---
 
 ### API Testing
-- [Postman](http://example.com/)
+- [Postman](https://github.com/ixmeza/postman.restfulbooker)
 
 ---
 
