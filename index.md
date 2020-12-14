@@ -4,26 +4,29 @@
 
 ## Skills
 
-- Test Management
-- Automation Testing
-- Manual Testing
-- Exploratory Testing
-- Accesibility Testing
+- 📊 Test Management
+- 🤖 Automation Testing
+- ✋ Manual Testing
+- 🔍 Exploratory Testing
+- 📱 Mobile Testing
+-  ♿ Accesibility Testing
 
 ---
 
-### UI Automation Testing
+### Front End Automation Testing Demos
 
 - [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
-- [Webdriver.io - Appium](http://example.com/)
-- [Playwright](http://example.com/)
-- [Cypress](http://example.com/)
-- [Selenium Java - Web](http://example.com/)
-- [Selenium Java - Mobile](http://example.com/)
+- Webdriver.io - Appium
+- Playwright
+- Cypress
+- Selenium Java - Web
+- Selenium Java - Mobile
 
 ---
+### Automated Accesibility Testing Demo
+- Accesibility Testing - Webdriveio & Axe
 
-### API Testing
+### API Testing Demo
 - [Postman](https://github.com/ixmeza/postman.restfulbooker)
 
 ---
