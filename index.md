@@ -3,13 +3,13 @@
 ---
 
 ## Skills
-
-- 📊 Test Management
-- 🤖 Automation Testing
-- ✋ Manual Testing
-- 🔍 Exploratory Testing
-- 📱 Mobile Testing
--  ♿ Accesibility Testing
+📊 🤖 ✋ 🔍 📱 ♿ 
+- Test Management
+- Automation Testing
+- Manual Testing
+- Exploratory Testing
+- Mobile Testing
+- Accessibility Testing
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 ### Automated Accesibility Testing Demo
-- Accesibility Testing - Webdriveio & Axe
+- Accessibility Testing - Webdriverio & Axe
 
 ### API Testing Demo
 - [Postman](https://github.com/ixmeza/postman.restfulbooker)
