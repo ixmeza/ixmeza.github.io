@@ -11,6 +11,10 @@
 - Mobile Testing
 - Accessibility Testing
 
+- PSM I (Professional Scrum Master)
+
+Java, Python, JS, SQL
+
 ---
 
 ### Front End Automation Testing Demos
