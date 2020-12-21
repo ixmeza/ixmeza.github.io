@@ -22,7 +22,7 @@ Java, Python, JS, SQL
 - [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
 - Webdriver.io - Appium
 - Playwright
-- Cypress
+- [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - Web
 - Selenium Java - Mobile
 
