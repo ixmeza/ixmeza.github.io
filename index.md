@@ -21,7 +21,7 @@ Java, Python, JS, SQL
 
 - [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
 - Webdriver.io - Appium
-- Playwright
+- [Playwright](https://github.com/ixmeza/playwright.trello)
 - [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - Web
 - Selenium Java - Mobile
