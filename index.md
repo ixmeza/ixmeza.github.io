@@ -27,7 +27,7 @@ Java, Python, JS, SQL
 - Selenium Java - Mobile
 
 ---
-### Automated Accesibility Testing Demo
+### Automated Accessibility Testing Demo
 - [Accessibility Testing - Webdriverio & Axe](https://github.com/ixmeza/wdio.axe)
 
 ### API Testing Demo
