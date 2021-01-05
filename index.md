@@ -13,16 +13,14 @@
 
 - PSM I (Professional Scrum Master)
 
-Java, Python, JS, SQL
 
 ---
 
 ### Front End Automation Testing Demos
 
-- [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
-- Webdriver.io - Appium
-- [Playwright](https://github.com/ixmeza/playwright.trello)
-- [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
+- JS [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
+- JS [Playwright](https://github.com/ixmeza/playwright.trello)
+- JS [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - Web
 - Selenium Java - Mobile
 
