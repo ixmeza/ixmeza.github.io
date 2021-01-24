@@ -35,9 +35,10 @@
 ### UWP Demo
 
 - WinAppDriver
+
 ---
 
-## Bug Trackin & Test Management tools I have used
+## Bug Tracking & Test Management tools I have used
 - Azure Dev Ops
 - ALM (formerly QC)
 - Rally
