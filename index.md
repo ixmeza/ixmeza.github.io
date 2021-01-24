@@ -1,8 +1,9 @@
 ## What can I do?
 
-I have a B.E. Information Technology and +8 years of experience in Software Testing. 
-I love technology and I am passionate about learning. 
-I am also currently working on my Masters in IT Management.
+<br/>I have a B.E. Information Technology and +8 years of experience in Software Testing.
+<br/>I love technology and I am passionate about learning. 
+<br/>I am also currently working on my Masters in IT Management.
+<br/>I am certified as PSM I (Professional Scrum Master).
 
 ---
 
@@ -14,8 +15,6 @@ I am also currently working on my Masters in IT Management.
 - Exploratory Testing
 - Mobile Testing
 - Accessibility Testing
-
-- PSM I (Professional Scrum Master)
 
 
 ---
