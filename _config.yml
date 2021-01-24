@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! My name is Ixchel and I am a Test Engineer with +8 years of experience.
   <br><br>Charlotte, N.C.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/ixmeza/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
