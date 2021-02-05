@@ -3,6 +3,8 @@
 - I love technology an I am passionate about learning.
 <br>#WomanInTech #LatinaInTech
 
+<img src="images/stack.png?raw=true"/>
+
 --- 
 ## Skills
 📊 🤖 ✋ 🔍 📱 ♿ 
