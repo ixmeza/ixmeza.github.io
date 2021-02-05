@@ -12,8 +12,6 @@
 - Exploratory Testing
 - Mobile Testing
 - Accessibility Testing
-
-
 ---
 
 ### Front End Automation Testing Demos
@@ -23,7 +21,6 @@
 - JS [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - Web
 - Selenium Java - Mobile
-- UWP - WinAppDriver - Windows
 
 ---
 ### Automated Accessibility Testing Demo
@@ -32,17 +29,16 @@
 ### API Testing Demo
 - [Postman](https://github.com/ixmeza/postman.restfulbooker)
 
-### UWP Demo
-
-- WinAppDriver
-
 ---
 
-## Bug Tracking & Test Management tools I have used
+## Other tools I have used
 - Azure Dev Ops
+- Docker
+- Lighthouse
 - ALM (formerly QC)
 - Rally
 - JIRA
+- Jenkins
 
 ---
 
