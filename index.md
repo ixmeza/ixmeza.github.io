@@ -14,6 +14,7 @@
 - Exploratory Testing
 - Mobile Testing
 - Accessibility Testing
+
 ---
 
 ### Front End Automation Testing Demos
@@ -22,7 +23,7 @@
 - JS [Playwright](https://github.com/ixmeza/playwright.trello)
 - JS [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - Web
-- Selenium Java - Mobile
+- Selenium Java - Mobile (in progress)
 
 ---
 ### Automated Accessibility Testing Demo
