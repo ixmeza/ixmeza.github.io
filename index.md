@@ -1,6 +1,6 @@
 ## A little bit about me 
 - I have a B.E. Information Technology and I am currently studying a Masters in IT Management.
-- I love technology an I am passionate about learning.
+- I love technology and I am passionate about learning.
 <br>#WomanInTech #LatinaInTech
 
 <img src="images/stack.png?raw=true"/>
