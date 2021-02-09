@@ -17,7 +17,7 @@
 
 ---
 
-### Front End Automation Testing Demos
+### Front End Automation Testing Example(s)
 
 - JS [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
 - JS [Playwright](https://github.com/ixmeza/playwright.trello)
@@ -26,10 +26,10 @@
 - Selenium Java - Mobile (in progress)
 
 ---
-### Automated Accessibility Testing Demo
+### Automated Accessibility Testing Example(s)
 - [Accessibility Testing - Webdriverio & Axe](https://github.com/ixmeza/wdio.axe)
 
-### API Testing Demo
+### API Testing Example(s)
 - [Postman](https://github.com/ixmeza/postman.restfulbooker)
 
 ---
