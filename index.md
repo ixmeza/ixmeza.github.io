@@ -22,7 +22,7 @@
 - JS [Webdriver.io - Web](https://github.com/ixmeza/wdio.conduit)
 - JS [Playwright](https://github.com/ixmeza/playwright.trello)
 - JS [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
-- Selenium Java - Web (in progress)
+- Selenium Java - [Web](https://github.com/ixmeza/selenium.crm)
 - Selenium Java - Mobile (in progress)
 
 ---
