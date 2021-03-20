@@ -31,7 +31,7 @@
 
 ### API Testing Example(s)
 - [Postman](https://github.com/ixmeza/postman.restfulbooker)
-- [RestAssured] (in progress)
+- [RestAssured](https://github.com/ixmeza/restassured.coops/tree/main) (work in progress)
 
 ---
 
