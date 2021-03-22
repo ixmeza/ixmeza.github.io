@@ -46,7 +46,7 @@
 
 ---
 
-## Companies I have worked with
+## Clients I have worked for
 
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
