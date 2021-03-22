@@ -23,7 +23,7 @@
 - JS [Playwright](https://github.com/ixmeza/playwright.trello)
 - JS [Cypress](https://github.com/ixmeza/cy.webdriver-uni)
 - Selenium Java - [Web](https://github.com/ixmeza/selenium.crm)
-- Selenium Java - Mobile (in progress)
+- Appium Java - Mobile (in progress)
 
 ---
 ### Automated Accessibility Testing Example(s)
